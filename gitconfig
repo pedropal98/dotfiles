@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = pedropal98@gmail.com
+	name = Pedro Palmer
